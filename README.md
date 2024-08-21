@@ -1,4 +1,4 @@
-#**Malicious URL Detector**#
+****Malicious URL Detector****
 
 This project provides a tool for detecting malicious URLs using machine learning. It includes a Jupyter notebook for feature extraction and model training, and a Tkinter-based graphical user interface (GUI) for user interaction.
 
