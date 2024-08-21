@@ -3,17 +3,27 @@ This project provides a tool for detecting malicious URLs using machine learning
 
 ### **Files**
 **Mal_URL.ipynb**: This notebook handles the feature extraction and classification of URLs using a trained machine learning model.
+
 **URL_UI.ipynb**: This notebook provides a simple GUI for the Malicious URL Detector, allowing users to input URLs and receive predictions on whether the URL is benign or malicious.
 
 ### **Requirements**
+
 Python 3.6+
+
 Jupyter Notebook
-Required Python Libraries:
+
+**Required Python Libraries:**
+
 pandas
+
 numpy
+
 scikit-learn
+
 tldextract
+
 tld
+
 tkinter
 
 ### **Usage**
