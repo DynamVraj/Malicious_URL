@@ -9,21 +9,14 @@ This project provides a tool for detecting malicious URLs using machine learning
 ### **Requirements**
 
 Python 3.6+
-
 Jupyter Notebook
-
 **Required Python Libraries:**
 
 pandas
-
 numpy
-
 scikit-learn
-
 tldextract
-
 tld
-
 tkinter
 
 ### **Usage**
